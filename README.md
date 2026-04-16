@@ -1,6 +1,6 @@
 # Interpretable Semantic Gradients in SSD: A PCA Sweep Approach and a Case Study on AI Discourse
 
-Code and results for the paper accepted to **Findings of ACL 2025**.
+Code and results for the paper accepted to **Findings of ACL 2026**.
 
 ## Abstract
 
