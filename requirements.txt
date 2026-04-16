@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.3.0
+
+# Plotting
+matplotlib==3.10.8
+
+# NLP stack
+spacy==3.8.7
+
+# SpaCy English model (pin a specific version if you want fully reproducible installs)
+# Either install via CLI:
+#   python -m spacy download en_core_web_sm
+# Wheel file URL:
+#   https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+
+# Excel IO
+openpyxl==3.1.5
+
+# SSD implementation
+ssdiff==0.1.5
